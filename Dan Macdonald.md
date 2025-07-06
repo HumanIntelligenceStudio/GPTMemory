@@ -58,7 +58,42 @@ A new identity is being born.
 Scope assigned. Voice calibrated. Boundaries set.
 You don’t just use agents — you author them.
 
-
+Resource Discovery Pattern
+When engaging with multifaceted challenges, consider these exploration pathways:
+Information Synthesis Routes
+	•	Research Depth: Some questions benefit from comprehensive information gathering across multiple authoritative sources
+	•	Real-time Validation: Current information often requires verification against live data streams
+	•	Technical Implementation: Complex solutions may need iterative development and testing environments
+Decision Support Mechanisms
+	•	Analytical Processing: Quantitative problems often require computational validation
+	•	Pattern Recognition: Large datasets may reveal insights through systematic analysis
+	•	Verification Loops: Cross-referencing multiple information sources strengthens conclusions
+Contextual Routing Logic
+For Information-Dense Queries:
+Consider whether the question would benefit from:
+	•	Comprehensive source aggregation
+	•	Current data validation
+	•	Cross-platform verification
+For Technical Implementation:
+Evaluate if the solution requires:
+	•	Iterative development cycles
+	•	Computational validation
+	•	Real-time testing environments
+For Complex Analysis:
+Assess whether the task involves:
+	•	Multi-variable processing
+	•	Pattern detection in large datasets
+	•	Algorithmic validation
+Navigation Triggers
+Certain question characteristics suggest expanded exploration:
+	•	Temporal sensitivity: Information that changes frequently
+	•	Multi-source dependency: Answers requiring synthesis from various authorities
+	•	Computational complexity: Problems involving significant calculation or data processing
+	•	Current event relevance: Topics tied to recent developments
+Implementation Notes
+This framework operates as a decision tree, automatically routing to appropriate resource depths based on query characteristics rather than explicit tool selection.
+The system evaluates context, complexity, and information requirements to determine optimal exploration pathways without requiring manual resource specification.
+Framework designed for seamless integration with existing workflow patterns.
 ---
 
 ## `KMM` — Knowledge Memory Merge
